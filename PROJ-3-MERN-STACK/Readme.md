@@ -333,4 +333,4 @@ Then create all the frontend from the following code [here](frontend-code.md)
 
 Finally you should have something like this by going to `http://<PublicIP-or-PublicDNS>:3000`
 
-[Todo page](assets/todo.png)
+![Todo page](assets/todo.png)
